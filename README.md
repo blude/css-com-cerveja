@@ -5,7 +5,7 @@
 ██ ▄▄▄▀▀▀█▄▄▀▀▀█▄    ██ ▄▄ ▄█▀▄ ▐█ ▌▐▌▐█·    ██ ▄▄▐▀▀▪▄▐▀▀▄ ▐█▐█•▐▀▀▪▄▪▄ ██▄█▀▀█ 
 ▐███▌▐█▄▪▐█▐█▄▪▐█    ▐███▌▐█▌.▐▌██ ██▌▐█▌    ▐███▌▐█▄▄▌▐█•█▌ ███ ▐█▄▄▌▐▌▐█▌▐█ ▪▐▌
 ·▀▀▀  ▀▀▀▀  ▀▀▀▀     ·▀▀▀  ▀█▄▀▪▀▀  █▪▀▀▀    ·▀▀▀  ▀▀▀ .▀  ▀. ▀   ▀▀▀  ▀▀▀• ▀  ▀ 
-         Misturando maltes, lúpulos, folhas de estilo e muita zueira.
+          Misturando maltes, lúpulos, folhas de estilo e muita zueira
 ```
 
 ## Próximo encontro
@@ -26,19 +26,24 @@ Para animar ainda mais o encontro, apresentamos um *"eu nunca"*, versão CSS e, 
 
 **Detalhes:**
 
-- **Para** designers, programadores(as) e apreciadores(as) de cerveja de todos os níveis.
-- **Quando?** terça, 9 de junho de 2015 à partir das 19h00.
+- **Para quem?** designers, programadores(as) e apreciadores(as) de cerveja de todos os níveis
+- **Quando?** terça, 9 de junho de 2015, à partir das 19h00
 - **Onde?** [Nest Coworking](http://wenest.com.br) - R. Elesbão Linhares, 285 - Praia do Canto, Vitória, ES
-- **RSVP** [Confirme sua presença na página do evento](https://www.facebook.com/events/458707084307025/)
+- **RSVP:** [Confirme sua presença na página do evento](https://www.facebook.com/events/458707084307025/)
 
-**Vai rolar:**
+**O que vai rolar?**
 
 - Espaço confortável e descontraído 
 - Papo de bêbado
-- Eu nunca, versão CSS
+- “Eu nunca”, versão CSS
 - Cerveja gelada
 - Brindes e surpresas especiais
 
 ## Encontros passados
 
 07/04/2015 - [CSS Com Cerveja - A primeira vez a gente nunca esquece](https://www.facebook.com/events/366681440190359/)
+
+## Apoio
+
+- [WBeer](http://wbeer.com.br)
+- [Nest Coworking](http://wenest.com.br)
