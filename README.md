@@ -24,10 +24,15 @@ Queremos saber também sobre as experiências de quem desenvolve websites, aplic
 
 Para animar ainda mais o encontro, apresentamos um *"eu nunca"*, versão CSS e, para garantir a lubrificância durante a brincadeira, teremos cerveja gelada e gostosa na roda.
 
-- **Quando:** 9 de junho de 2015 à partir das 19h00
-- **Onde:** Nest Coworking
+**Detalhes:**
 
-Vai rolar:
+- **Para** designers, programadores(as) e apreciadores(as) de cerveja de todos os níveis.
+- **Quando?** terça, 9 de junho de 2015 à partir das 19h00.
+- **Onde?** [Nest Coworking](http://wenest.com.br) - R. Elesbão Linhares, 285 - Praia do Canto, Vitória, ES
+- **RSVP** [Confirme sua presença na página do evento](https://www.facebook.com/events/458707084307025/)
+
+**Vai rolar:**
+
 - Espaço confortável e descontraído 
 - Papo de bêbado
 - Eu nunca, versão CSS
