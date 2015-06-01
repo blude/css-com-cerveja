@@ -1,6 +1,13 @@
-# CSS Com Cerveja :beer:
 
-CSS Com Cerveja promove a mistura de água, malte e lúpulos com folhas de estilo em encontros divertidíssimos e bimestrais.
+```
+ ▄▄· .▄▄ · .▄▄ ·      ▄▄·       • ▌ ▄ ·.      ▄▄· ▄▄▄ .▄▄▄   ▌ ▐·▄▄▄ . ▐▄▄▄ ▄▄▄· 
+▐█ ▌▪▐█ ▀. ▐█ ▀.     ▐█ ▌▪▪     ·██ ▐███▪    ▐█ ▌▪▀▄.▀·▀▄ █·▪█·█▌▀▄.▀·  ·██▐█ ▀█ 
+██ ▄▄▄▀▀▀█▄▄▀▀▀█▄    ██ ▄▄ ▄█▀▄ ▐█ ▌▐▌▐█·    ██ ▄▄▐▀▀▪▄▐▀▀▄ ▐█▐█•▐▀▀▪▄▪▄ ██▄█▀▀█ 
+▐███▌▐█▄▪▐█▐█▄▪▐█    ▐███▌▐█▌.▐▌██ ██▌▐█▌    ▐███▌▐█▄▄▌▐█•█▌ ███ ▐█▄▄▌▐▌▐█▌▐█ ▪▐▌
+·▀▀▀  ▀▀▀▀  ▀▀▀▀     ·▀▀▀  ▀█▄▀▪▀▀  █▪▀▀▀    ·▀▀▀  ▀▀▀ .▀  ▀. ▀   ▀▀▀  ▀▀▀• ▀  ▀ 
+
+             Misturando cerveja, folhas de estilo e zueira em contros bimestrais.
+```
 
 ## Próximo encontro
 
