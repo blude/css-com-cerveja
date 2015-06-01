@@ -5,8 +5,7 @@
 ██ ▄▄▄▀▀▀█▄▄▀▀▀█▄    ██ ▄▄ ▄█▀▄ ▐█ ▌▐▌▐█·    ██ ▄▄▐▀▀▪▄▐▀▀▄ ▐█▐█•▐▀▀▪▄▪▄ ██▄█▀▀█ 
 ▐███▌▐█▄▪▐█▐█▄▪▐█    ▐███▌▐█▌.▐▌██ ██▌▐█▌    ▐███▌▐█▄▄▌▐█•█▌ ███ ▐█▄▄▌▐▌▐█▌▐█ ▪▐▌
 ·▀▀▀  ▀▀▀▀  ▀▀▀▀     ·▀▀▀  ▀█▄▀▪▀▀  █▪▀▀▀    ·▀▀▀  ▀▀▀ .▀  ▀. ▀   ▀▀▀  ▀▀▀• ▀  ▀ 
-
-             Misturando cerveja, folhas de estilo e zueira em contros bimestrais.
+         Misturando maltes, lúpulos, folhas de estilo e muita zueira.
 ```
 
 ## Próximo encontro
